@@ -1,5 +1,7 @@
 # 🎬 Telugu Movie Recommendation System
 
+🌐 **Live Demo:** https://telugu-movie-recommendation-system.onrender.com
+
 An interactive web application that recommends Telugu movies using machine learning and content-based filtering.
 
 ---
@@ -34,7 +36,9 @@ This system uses **content-based filtering** to recommend movies.
 
 ---
 
-##▶️ Run Locally
+## ▶️ Run Locally
+
+```bash
 git clone https://github.com/GayathriTutika/telugu-movie-recommendation-system.git
 cd telugu-movie-recommendation-system
 
@@ -46,10 +50,12 @@ pip install -r requirements.txt
 
 # Run the app
 .\.venv\Scripts\python.exe -m streamlit run app.py
+```
 
 ---
 
 ## 📸 Project Preview
+
 ![App Screenshot](app-preview.png)
 
 ---
@@ -58,7 +64,7 @@ pip install -r requirements.txt
 
 * 🎥 Add movie posters using API
 * 🤖 Improve recommendation accuracy
-* ☁️ Deploy the application online
+* ☁️ Enhance deployment and scalability
 * ⭐ Add user ratings system
 
 ---
@@ -73,6 +79,13 @@ This project also highlights skills in data processing, similarity modeling, and
 
 ---
 
+## 🔗 Links
+
+* 🌐 Live Demo: https://telugu-movie-recommendation-system.onrender.com
+* 💻 GitHub Repo: https://github.com/GayathriTutika/telugu-movie-recommendation-system
+
+---
+
 ## 👨‍💻 Author
 
-Tutika Gayathri
+**Tutika Gayathri**
