@@ -50,8 +50,7 @@ pip install -r requirements.txt
 ---
 
 ## 📸 Project Preview
-
-(Add your project screenshot here)
+![App Screenshot](app-preview.png)
 
 ---
 
@@ -66,4 +65,4 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-Gayathri Tutika
+Tutika Gayathri
